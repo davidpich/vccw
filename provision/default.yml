@@ -132,7 +132,7 @@ composers:
 # wp-cli package commands
 #
 wp_cli_packages:
-  - vccw/wp-cli-scaffold-movefile:@stable
+  - git@github.com:vccw-team/wp-cli-scaffold-movefile.git
 
 #
 # Linked Clone for Vagrant v1.8
